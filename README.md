@@ -5,9 +5,9 @@ Welcome to the **CodSoft** GitHub repository! This repository contains the proje
 ## Table of Contents
 
 - [Projects](#projects)
-  - [1. To-Do List](#1-to-do-list)
-  - [2. Rock-Paper-Scissors Game](#2-rock-paper-scissors-game)
-  - [3. Calculator](#3-calculator)
+  - [1. Rock-Paper-Scissors Game](#1-rock-paper-scissors-game)
+  - [2. Calculator](#2-calculator)
+  - [3. To-Do List](#3-to-do-list)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -17,20 +17,68 @@ Welcome to the **CodSoft** GitHub repository! This repository contains the proje
 
 ## Projects
 
-### 1. To-Do List
+### 1. Rock-Paper-Scissors Game
 
-A command-line application to manage daily tasks. You can add, update, mark as complete, and remove tasks.
+A simple console-based Rock-Paper-Scissors game where the user can play against the computer.
 
-- **Features:**
-  - Add tasks with a status of "Pending."
-  - Update existing tasks.
-  - Mark tasks as "Completed."
-  - Remove tasks from the list.
-  - View all tasks with their status.
+### 2. Calculator
 
-- **Usage Example:**
-  ```python
-  todo_list = ToDoList()
-  todo_list.add_task("Complete Python project")
-  todo_list.view_tasks()
+A basic calculator application that can perform arithmetic operations such as addition, subtraction, multiplication, and division.
+
+### 3. To-Do List
+
+A simple to-do list application that helps you manage your daily tasks, allowing you to add, delete, and mark tasks as complete.
+
+## Technologies Used
+
+- **Python:** All the projects were built using Python.
+- **Libraries:** Some projects use libraries such as `random` for generating random choices.
+
+## Installation
+
+To run these projects locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Ayushijaiswal24/CodSoft.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd CodSoft
+   ```
+
+3. Run the Python scripts:
+
+   ```bash
+   python <project_name>.py
+   ```
+
+   Replace `<project_name>` with the name of the project file you want to run.
+
+## Usage
+
+Each project has its own script file. Simply run the script file using Python to use the application. Detailed instructions for each project can be found in the respective project folders.
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, improvements, or new features, feel free to create a pull request.
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature`).
+3. Commit your changes (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature/your-feature`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+- **Name:** Ayushi Jaiswal
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **GitHub:** [Ayushijaiswal24](https://github.com/Ayushijaiswal24)
 
