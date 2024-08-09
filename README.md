@@ -79,6 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Name:** Ayushi Jaiswal
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [shauryajai8@gmail.com](mailto:shauryajai8@gmail.com)
 - **GitHub:** [Ayushijaiswal24](https://github.com/Ayushijaiswal24)
 
